@@ -11,12 +11,6 @@
 </div>
 <br>
 
-<div>
-<a href="https://github.com/NataliaZanella">
-<img loading="lazy" height="180em" src="(https://github-readme-stats.vercel.app/api?Nataliazanella=anuraghazra&show_icons=true&theme=radical)"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?NataliaZanella&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <img src="/octocat-natthy.png" style="height=20px">
 
 
