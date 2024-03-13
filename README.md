@@ -1,10 +1,11 @@
-### Olá, sou a Natália Zanella :purple_heart:
-### Bem vindo ao meu perfil GitHub!👋
+### Hello, I am Natália Zanella :purple_heart:
+### Welcome to my github profile!👋
 
-#### Atualmente sou Dev Jr e venho de uma transição de carreira. Sou granduanda em ADS, e no momento estou estudando C# e dotnet, wordpress e desenvolvimento de temas.
+#### I am currently Dev Jr and come from a career transition. I'm a senior in ADS, and I'm currently studying C# and dotnet, wordpress and theme development.
 
 
-### Contato:
+### Contact:
+
 
 <div>
 <a href="https://www.linkedin.com/in/natália-zanella" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
