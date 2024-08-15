@@ -1,7 +1,7 @@
 ### Hello, I am Natália Zanella :purple_heart:
 ### Welcome to my github profile!👋
 
-#### I am currently Dev Jr and come from a career transition. I'm a senior in ADS, and I'm currently studying C# and dotnet, wordpress and theme development.
+#### I'm currently a Junior Developer, having gone through a career transition. I have a degree in Systems Analysis and Development and am currently deepening my studies in C#, .NET, WordPress and theme development.
 
 
 ### Contact:
